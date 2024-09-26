@@ -1,0 +1,43 @@
+body{
+    background-color: blueviolet;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+    height: 100vh;           
+}
+#btn1{
+    width: 10%;
+    height: 20vh;
+    margin: 20px;
+    background-image: url('w.jpeg');
+    background-size: cover;
+    background-position: center;
+    
+}
+#btn2{
+  width: 10%;
+  height: 20vh;
+  margin: 20px;
+  background-image: url('M.png');
+  background-size: cover;
+  background-position: center;
+}
+#btn3{
+  width: 10%;
+  height: 20vh;
+  margin: 20px;
+  background-image: url('i.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+#btn4{
+  width: 10%;
+  height: 20vh;
+  margin: 20px;
+  background-image: url('k.png');
+  background-size: cover;
+  background-position: center;
+}
